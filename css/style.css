@@ -6,7 +6,7 @@
     --darkblue:#2C3E50;
 }
 
-.blue-bg{
+.darkblue-bg{
     background-color:var(--darkblue)
 }
 
@@ -14,8 +14,27 @@
     background-color:var(--green)
 }
 
-/* main */
+.txt-darkblue{
+    color: var(--darkblue);
+}
+/* header */
 
-.main .img-container{
-    
+/* Sezione start bootstrap */
+
+.img-container{
+    max-width:50%;
+    margin:0 auto;
+}
+
+
+h1{
+    text-align:center;
+}
+
+.star-bar{
+    min-height:50px;
+}
+.star-bar hr{
+    width:20%;
+    display:inline-block;
 }
