@@ -1,0 +1,21 @@
+/* general */
+
+:root{
+    --blue:#3A546D;
+    --green:#1ABC9C;
+    --darkblue:#2C3E50;
+}
+
+.blue-bg{
+    background-color:var(--darkblue)
+}
+
+.green-bg{
+    background-color:var(--green)
+}
+
+/* main */
+
+.main .img-container{
+    
+}
