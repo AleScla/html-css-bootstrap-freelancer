@@ -13,6 +13,9 @@
 .green-bg{
     background-color:var(--green)
 }
+.blue-bg{
+    background-color:var(--blue)
+}
 
 .txt-darkblue{
     color: var(--darkblue);
@@ -25,6 +28,14 @@ img{
 .custom-width{
     max-width:60%;
 }
+
+.circle{
+    width:50px;
+    height:50px;
+    border:1px solid white;
+    border-radius:50%;
+}
+
 /* header */
 
 /* Sezione start bootstrap */
@@ -46,4 +57,6 @@ h1{
     width:20%;
     display:inline-block;
 }
+
+
 
