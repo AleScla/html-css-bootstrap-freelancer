@@ -21,6 +21,10 @@
 img{
     max-width:100%;
 }
+
+.custom-width{
+    max-width:60%;
+}
 /* header */
 
 /* Sezione start bootstrap */
@@ -42,3 +46,4 @@ h1{
     width:20%;
     display:inline-block;
 }
+
