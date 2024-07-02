@@ -17,6 +17,10 @@
 .txt-darkblue{
     color: var(--darkblue);
 }
+
+img{
+    max-width:100%;
+}
 /* header */
 
 /* Sezione start bootstrap */
